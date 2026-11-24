@@ -81,6 +81,14 @@
 
 > Most of my professional work lives in private repositories, so it shows up here as private contributions.
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GiuseppeXD&theme=tokyo-night&hide_border=true&area=true&radius=10&custom_title=Contributions%20in%20the%20last%2031%20days" alt="Activity graph"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+  <img width="100%" src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contribution calendar" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiuseppeXD/GiuseppeXD/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiuseppeXD/GiuseppeXD/output/github-snake.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/GiuseppeXD/GiuseppeXD/output/github-snake.svg" />
+</picture>
