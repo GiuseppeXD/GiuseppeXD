@@ -1,5 +1,10 @@
-<h1 align="center">Giuseppe Luca Mareschi</h1>
-<p align="center"><b>Software Engineer</b> · Ruby on Rails · React · TypeScript · Salvador, Brazil</p>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:16181d,55:3a3f47,100:7c838d&height=240&section=header&text=Giuseppe%20Luca%20Mareschi&fontSize=46&fontColor=e8eaed&fontAlignY=30&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Salvador%2C%20Brazil&descSize=18&descAlignY=47&animation=fadeIn" alt="Giuseppe Luca Mareschi"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D4A24C&center=true&vCenter=true&width=640&lines=Full-Stack+Software+Engineer;Ruby+on+Rails+%C2%B7+React+%C2%B7+TypeScript;REST+APIs+%C2%B7+GraphQL+%C2%B7+Sidekiq;CI%2FCD+%C2%B7+Docker+%C2%B7+Kubernetes;AI+agents+with+RAG+%26+MCP" alt="Typing intro"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/giuseppe-mareschi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -8,7 +13,7 @@
 
 ---
 
-### About me
+### 🙋‍♂️ About me
 
 - 💻 **5+ years** building web applications with Ruby on Rails, React, JavaScript and TypeScript
 - 🏭 Today I work on an industrial software platform for process digitalization and document management, used by international enterprise clients
@@ -21,9 +26,9 @@
 
 ---
 
-### Tech stack
+### 🛠️ Tech stack
 
-**Backend**
+**⚙️ Backend**
 <p>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/>
@@ -34,7 +39,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-**Frontend**
+**🎨 Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -43,7 +48,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 </p>
 
-**Databases**
+**🗄️ Databases**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
@@ -51,7 +56,7 @@
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black"/>
 </p>
 
-**Infrastructure & Monitoring**
+**☁️ Infrastructure & Monitoring**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
@@ -62,7 +67,7 @@
   <img src="https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black"/>
 </p>
 
-**AI**
+**🤖 AI**
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-555555?style=flat-square"/>
@@ -71,13 +76,13 @@
 
 ---
 
-### Featured project
+### 📌 Featured project
 
 **[kpi-netdata-metabase](https://github.com/GiuseppeXD/kpi-netdata-metabase)**: sends Netdata server metrics through a Node.js proxy into ClickHouse, with KPI dashboards in Metabase. The production version collects about 200 metrics per hour.
 
 ---
 
-### GitHub activity
+### 📊 GitHub activity
 
 > Most of my professional work lives in private repositories, so it shows up here as private contributions.
 
@@ -92,3 +97,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiuseppeXD/GiuseppeXD/output/github-snake.svg" />
   <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/GiuseppeXD/GiuseppeXD/output/github-snake.svg" />
 </picture>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:7c838d,55:3a3f47,100:16181d&height=120&section=footer" alt="Footer"/>
+</p>
